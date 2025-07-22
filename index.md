@@ -6,14 +6,17 @@ title: Home
 # Tharindu Ishan
 ## Embedded Systems Engineer
 
-Dedicated Electrical and Electronics Engineer with hands-on experience in smart device development, manufacturing processes, robotics applications and automation. Proven expertise in developing self-navigating systems and connected device platforms.
+Passionate and skilled Embedded Systems Engineer with hands-on experience in sensor integration, power electronics, and real-time embedded control systems. Strong background in designing and developing industrial-grade hardware and firmware solutions, from schematic and PCB design to field deployment. Adept at bridging hardware and software for sensor-driven systems and automation platforms. Committed to delivering reliable, high-precision embedded products aligned with international manufacturing standards.
 
 ### 🚀 Expertise Areas
-- **Autonomous Robotics** - ROS2, SLAM, Navigation Systems
-- **Embedded Systems** - ARM Cortex-M, ESP32, Raspberry Pi
-- **IoT & Cloud** - AWS, Docker, Jenkins, CI/CD Pipelines
-- **Machine Learning** - Computer Vision, TensorFlow, OpenCV
-- **Industrial Automation** - PLCs, Control Systems, SCADA
+- **Programming Languages** - Python, C, C++, System Verilog, VHDL, Dart
+- **Micro-controllers & Embedded Systems** - ARM Cortex-M (STM32), ESP32-S3/8266, PIC, AVR, Arduino, Raspberry Pi, NVIDIA Jetson, Qualcomm TurboX W5+ 
+- **Autonomous Robotics** - ROS2 (SLAM, AMCL), FreeRTOS, Embedded Linux, Zephyr 
+- **Communication Protocols** - UART, SPI, I2C, CAN, MODBUS, RS485, MQTT, HTTP, WebSockets, BLE, Calibration Protocols, Noise Analysis, Signal Conditioning
+- **Hardware** - PCB Design (Altium Designer, Eagle, EasyEDA, Proteus), BLDC Motor Control, IMU, Lidar, Depth Cameras, PID, ESC design 
+- **Machine Learning** - Object Detection (YOLO, MASK-RCNN), TensorFlow, OpenCV, Image Classification, Supervised Learning 
+- **No-Code Automation** - n8n, Zapier, CI/CD pipelines, PM Tools (ClickUp, Trello)
+- **Cloud & DevOps** - AWS (EC2, S3, RDS, Lambda), Docker, Kubernetes, Jenkins, Ansible, Terraform, Git, Monitoring (Prometheus/Grafana), Bash
 
 ### 🔥 Featured Projects
 
@@ -36,18 +39,21 @@ Dedicated Electrical and Electronics Engineer with hands-on experience in smart 
 
 ### 📊 Quick Stats
 - **4+ Years** of Engineering Experience
+- **ROS2 Expert** in Autonomous Navigation, Robotic manipulation
+- **Strong proficiency** in real-time systems, embedded Linux, and microcontroller programming
+- **CI/CD implementation** with Jenkins, Docker, and AWS for streamlined DevOps workflows
 - **10,000+** Devices Supported (Pet Tracking System)
-- **99.9%** System Uptime Achieved
-- **ROS2 Expert** in Autonomous Navigation
+- **AI integration** with machine learning models for face, voice, and emotion recognition
+- **Automation workflows** using n8n, Zapier, and custom API integrations
 
 ---
 
 ## 📬 Contact {#contact}
 
 **Email**: [wtiwijesinghe@gmail.com](mailto:wtiwijesinghe@gmail.com)  
-**Phone**: +94 71 43 67 160  
+**Phone**: +9471-4367-160  
 **LinkedIn**: [tharindu-wijesinghe](https://linkedin.com/in/tharindu-wijesinghe)  
-**Location**: Kegalle, Sri Lanka
+**Location**: Colombo, Sri Lanka
 
 <style>
 .project-grid {
